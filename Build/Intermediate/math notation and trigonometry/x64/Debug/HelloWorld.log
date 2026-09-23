@@ -1,0 +1,8 @@
+﻿  MainGame.cpp
+C:\Users\miche\Downloads\playbuffer-HelloWorld\playbuffer-HelloWorld\Play.h(3,83): warning C5333: backslash and newline separated by space is treated as a line continuation in C++23 and later
+  (compiling source file 'MainGame.cpp')
+  
+C:\Users\miche\Downloads\playbuffer-HelloWorld\playbuffer-HelloWorld\Play.h(5,104): warning C5333: backslash and newline separated by space is treated as a line continuation in C++23 and later
+  (compiling source file 'MainGame.cpp')
+  
+  HelloWorld.vcxproj -> C:\Users\miche\Downloads\playbuffer-HelloWorld\playbuffer-HelloWorld\HelloWorld\Build\x64\Debug\math notation and trigonometry.exe

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Users\\miche\\Downloads\\playbuffer-HelloWorld\\playbuffer-HelloWorld\\HelloWorld\\Build\\Intermediate\\HelloWorld\\x64\\Debug\\MainGame.obj",
+            "outputs": [
+                "C:\\Users\\miche\\Downloads\\playbuffer-HelloWorld\\playbuffer-HelloWorld\\HelloWorld\\Build\\Intermediate\\HelloWorld\\x64\\Debug\\MainGame.cpp.obj.dt.module.json",
+                "C:\\Users\\miche\\Downloads\\playbuffer-HelloWorld\\playbuffer-HelloWorld\\HelloWorld\\Build\\Intermediate\\HelloWorld\\x64\\Debug\\MainGame.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
