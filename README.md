@@ -2,6 +2,15 @@
 
 This C++ program uses the PlayBuffer library to turn mathematical expressions into code. It takes user input for values such as `x`, `y`, `n`, and `theta`, calculates the results, and displays them in the program window.
 
+
+Course: Math notation and Trigonometry
+
+Student:Mechelle Dilanthika Magage
+LTU email: mecmag-4@student.ltu.se
+Source code: HelloWorld.vcxproj
+Date:24.09.2026
+
+
 The assignment covers square roots, absolute values, sums, products, and trigonometric functions. It combines the calculations and their output in one program.
 
 ## Running the program
@@ -18,3 +27,7 @@ These concepts are useful in game development:
 - **Absolute value:** Measure how far an object is from a target without considering direction.
 - **Sums and products:** Combine scores, damage values, or repeated calculations.
 - **Sine and cosine:** Move an object in a circle or aim a projectile at an angle.
+
+
+
+
